@@ -1,5 +1,4 @@
 ## Hi there 👋
-![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQHJvBv8aypMyA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1734023811807?e=1749686400&v=beta&t=O9etVyRSjOmEkKMR4cJcnj1C8KT_a7pJVCuojWB_BWo)
 <h1 align="center">Hi 👋, I'm Parag Saini</h1>
 <h3 align="center">🔌 Deployed Electrician | Robotics & IoT Enthusiast | Full-Stack Developer | AI & ML Specialist | Freelancer 🤖 Passionate about merging technology with innovation, I bring expertise in electrical systems, robotics, IoT, and software development. With strong skills in Python, front-end technologies (HTML, CSS, JavaScript), and full-stack web & application development, I create smart solutions that bridge hardware and software. Specialized in Artificial Intelligence & Machine Learning, I enjoy working on automation, intelligent systems, and futuristic tech. As a freelancer, I take on diverse projects, delivering efficient and scalable solutions.</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/featured/hacker-lj7znezbwb0nuba4.webp">

@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@parag_saini07" target="blank"><img src="https://img.shields.io/twitter/follow/@parag_saini07?logo=twitter&style=for-the-badge" alt="@parag_saini07" /></a> </p>
 
-- 🔭 I’m currently working on [Text To Image Generator](https://github.com/ParagSaini07/Text-to-Image-Generator-)
+- 🔭 I’m currently working on [IOT Base projects]()
 
 - 🌱 I’m currently learning **React, AI-ML, Android, Kotlin**
 
